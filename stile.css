@@ -1,0 +1,169 @@
+
+header{
+    height:40px;
+    background-color:rgba(66, 66, 66, 1);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;   
+}
+
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 20;
+    display: flex;
+    gap: 1px;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-right: 30px;
+}
+
+main {
+  
+}
+
+body{
+    background-color:rgba(49, 49, 49, 1);
+}
+
+h1{
+       
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+        margin:0;
+        background-color:rgba(255, 184, 0, 1);
+        color: #FFFFFF;
+        font-size:900%;
+        font-weight: bold;
+        line-height: 160px;
+        text-align: center;
+        padding-top:5%;
+        padding-bottom: 5%;
+        
+       
+     
+}
+
+section.hero {
+    background-color: #333;
+    padding:40px 0 40px 0;
+    border-radius: 10px 10px 0 0;
+    margin-top: 40px;
+    
+}
+section.card {
+    background-color: rgba(66, 66, 66, 1);;
+    padding-left: 5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-radius: 0 0 10px 10px;
+    
+    
+
+}
+
+h3{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+    margin:0;
+    color: #FFFFFF;
+    font-size:300%;
+    font-weight: bold;
+    text-align: center;
+    padding-right: 20%;
+    padding-bottom: 20%;
+}
+
+h4{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+    margin:0;
+    color: #FFFFFF;
+    background-color: rgba(255, 184, 0, 1);
+    font-size:600%;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    
+}
+section.Sfondoinglese {
+    position: relative;   
+    opacity: 0.30;
+    
+}
+
+<style>
+.immagine {
+     width: 100%;
+}
+ h5{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+    position: relative;
+    margin:0;
+    color: #FFFFFF;
+    font-size:250%;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+
+  }
+
+  section.Sfondorussia {
+    position: relative;   
+    opacity: 0.30;
+    
+}
+
+
+
+  
+
+  h6{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+    margin:0;
+    color: #FFFFFF;
+    background-color:rgba(255, 184, 0, 1);
+    font-size:600%;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+  }
+
+  section.Testofooter {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;  
+    margin:0;
+    font-size: 80%;
+    display: flex;
+    color: #FFFFFF;
+    font-weight: normal;
+    background-color: rgba(66, 66, 66, 1);
+    justify-content: space-between;
+    text-align: center;
+    opacity: 0.60;
+    text-transform: uppercase;
+   
+
+
+
+    
+  }
+
+  section.copyright {
+    
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+    color: #FFFFFF;
+    background-color:rgba(49, 49, 49, 1);
+    margin: 0;
+    opacity: 0.3;
+
+}
